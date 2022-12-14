@@ -4,6 +4,10 @@ The aim of this project is to distinguish the signal from background for the thr
 
 The physics process is explained in the following figure:
 
+Incident muon collides with W and produce S particle. S particle decays into two muons. Totally, three muons are produced in this process. 
+
+The true signal will have three close hits on the detector plus background noise. 
+
 <img src="/image/experiment.png" alt="drawing" width="500"/>
 
 The experiment is explained in 'https://en.wikipedia.org/wiki/Fermilab_E-906/SeaQuest'
