@@ -9,6 +9,8 @@ The experiment is explained in 'https://en.wikipedia.org/wiki/Fermilab_E-906/Sea
 
 # Root2PKL
 
-Root2PKL import the similated data and extracct select features for the GNN classification model.
+Root2PKL imports the original dataset and extraccts select features for training the GNN classification model.
 
+# DATA_ANALYSIS
 
+DATA_ANALYSIS analyses and visualizes the the dataset. 
