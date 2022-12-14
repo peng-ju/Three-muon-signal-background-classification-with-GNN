@@ -4,7 +4,7 @@ The aim of this project is to distinguish the signal from background for the thr
 
 The physics process is explained in the following figure:
 ![experiment](/image/experiment.png)
-
+<img src="/image/experiment.png" alt="drawing" width="200"/>
 
 The experiment is explained in 'https://en.wikipedia.org/wiki/Fermilab_E-906/SeaQuest'
 
