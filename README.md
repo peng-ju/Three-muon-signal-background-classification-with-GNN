@@ -10,7 +10,7 @@ The true signal will have three close hits on the detector plus background noise
 
 <img src="/image/experiment.png" alt="drawing" width="500"/>
 
-The experiment is explained in 'https://en.wikipedia.org/wiki/Fermilab_E-906/SeaQuest'
+The experiment system is explained in 'https://en.wikipedia.org/wiki/Fermilab_E-906/SeaQuest'
 
 
 # Root2PKL
