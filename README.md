@@ -7,6 +7,8 @@ The physics process is explained in the paper ''.
 The experiment is explained in 'https://en.wikipedia.org/wiki/Fermilab_E-906/SeaQuest'
 
 
+# Root2PKL
 
+Root2PKL import the similated data and extracct select features for the GNN classification model.
 
 
