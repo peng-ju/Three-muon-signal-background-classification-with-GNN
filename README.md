@@ -15,7 +15,7 @@ The experiment system is explained in 'https://en.wikipedia.org/wiki/Fermilab_E-
 
 ### Root2PKL
 
-Root2PKL imports the original dataset and extraccts select features for training the GNN classification model.
+Root2PKL imports the original dataset and extracts selected features for training the GNN classification model.
 
 ### DATA_ANALYSIS
 
